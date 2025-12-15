@@ -1,4 +1,4 @@
-from miniturtle import adelante, abajo, reiniciar
+from mini_turtle import adelante, abajo, reiniciar
 
 #comandos de uso
 
