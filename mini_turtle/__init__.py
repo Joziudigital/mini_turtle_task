@@ -1,4 +1,4 @@
-from drawer_logic import (
+from .drawer_logic import (
     adelante,
     abajo,
     reiniciar,
